@@ -1,4 +1,4 @@
-# ☀️ Dijital Enerji Üretim Takip Uygulaması
+# ☀️ Portatif Paneller ile Enerji Üretim Takip Uygulaması
 
 Bu proje, güneş enerjisi üretim sistemlerinde dijitalleşmenin yaygınlaştırılmasına yönelik geliştirilmiş Flutter tabanlı bir mobil uygulamadır. Uygulama, kullanıcıların konumlarına göre güneş paneli sistemleri oluşturmasına, bu sistemlerin üretim tahminlerini görüntülemesine ve geçmiş verilerini takip etmesine olanak tanır. Sistem, hem gerçek zamanlı API entegrasyonları hem de yerel veri depolama yöntemleri kullanılarak yapılandırılmıştır.
 
