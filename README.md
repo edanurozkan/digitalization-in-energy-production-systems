@@ -76,8 +76,3 @@ lib/
 ---
 
 
-Geliştiren: **Ahmet Özalp**  
-Danışman: **Prof. Dr. Zekeriya Tüfekçi**  
-Çukurova Üniversitesi – Bilgisayar Mühendisliği (2025)
-
-
